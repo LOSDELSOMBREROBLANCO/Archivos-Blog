@@ -7,10 +7,6 @@ void MatrizTrans();
 
 int main(){
 
-    // Proyecto final
-    // Bryan Vanegas
-    // 17/07/2020
-
     int opc;
 
     do{
